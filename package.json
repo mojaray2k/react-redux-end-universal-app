@@ -1,7 +1,7 @@
 {
   "name": "react-redux-end-universal-app",
   "version": "1.0.0",
-  "description": "This is a React Redux Universal App Built On React, Redux, Express, and PostgreSQL",
+  "description": "This is a Isomorphic React Redux App Built On React, Redux, Express, and PostgreSQL",
   "main": "index.js",
   "scripts": {
     "server": "yarn run build-client && babel-node app/server.js --presets es2015,react,stage-2",
